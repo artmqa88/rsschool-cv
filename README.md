@@ -1,1 +1,1 @@
-https://artmqa88.github.io/rsschool-cv/cv.md
+https://artmqa88.github.io/rsschool-cv/cv
