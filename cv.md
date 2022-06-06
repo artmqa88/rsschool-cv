@@ -18,7 +18,7 @@ I’m currently working system administrator and learn front end.
 * Python
 * Git
 
-# Code Example#
+# Code Example
 ```javascript
 const func = (num) => {
   if (num > 0) {
