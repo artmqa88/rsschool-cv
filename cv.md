@@ -1,9 +1,10 @@
 #  Aleh Bareisha
 
 ## My Contact Info ##
-*Phone: +375 29 987-96-47
-*E-mail: artmqa@mail.com
-*[GitHub](https://github.com/artmqa88)
+
+* Phone: +375 29 987-96-47
+* E-mail: artmqa@mail.com
+* [GitHub](https://github.com/artmqa88)
 
 ## About Me ##
 
